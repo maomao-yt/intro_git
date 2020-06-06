@@ -1,2 +1,7 @@
 Gitの練習を始めます。
 ファイルを変更したよ！
+
+学んだこと
+・git add
+・git commit
+・git rm
